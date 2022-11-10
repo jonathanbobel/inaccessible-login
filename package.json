@@ -1,0 +1,14 @@
+{
+  "name": "inaccessible-login",
+  "version": "1.0.0",
+  "description": "A very horrible login for accessibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Bobel",
+  "license": "ISC",
+  "dependencies": {
+    "@uswds/uswds": "^3.2.0"
+  }
+}
